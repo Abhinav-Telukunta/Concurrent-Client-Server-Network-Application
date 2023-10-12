@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g4iZwdDYUHG10hKFDEWMygmtMJZGB/dxsU2yPDaBtcDNF0AUmBTi+iHuFAD3pfbcCvNCwQwzqczJo2CTmczzaw==",
+  "success": true,
+  "projectFilePath": "D:\\MS\\University_of_Florida\\1-1 Stuff\\Courses\\DOSP\\Projects\\Project1\\client\\client.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abhinav\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

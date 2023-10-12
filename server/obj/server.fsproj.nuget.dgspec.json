@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MS\\University_of_Florida\\1-1 Stuff\\Courses\\DOSP\\Projects\\Project1\\server\\server.fsproj": {}
+  },
+  "projects": {
+    "D:\\MS\\University_of_Florida\\1-1 Stuff\\Courses\\DOSP\\Projects\\Project1\\server\\server.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MS\\University_of_Florida\\1-1 Stuff\\Courses\\DOSP\\Projects\\Project1\\server\\server.fsproj",
+        "projectName": "server",
+        "projectPath": "D:\\MS\\University_of_Florida\\1-1 Stuff\\Courses\\DOSP\\Projects\\Project1\\server\\server.fsproj",
+        "packagesPath": "C:\\Users\\Abhinav\\.nuget\\packages\\",
+        "outputPath": "D:\\MS\\University_of_Florida\\1-1 Stuff\\Courses\\DOSP\\Projects\\Project1\\server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Abhinav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.2, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
