@@ -1,4 +1,4 @@
-# The goal of the project is to create a concurrent client/server application that uses the TCP/IP protocol stack and socket communication.
+## The goal of the project is to create a concurrent client/server application that uses the TCP/IP protocol stack and socket communication.
 
 ## Server-Side Program:
 The server-side program has been designed to operate continuously while it waits for new connections from clients. It must manage asynchronous operations to handle multiple customers' requests at once.
