@@ -14,3 +14,16 @@ Both the server and the clients must terminate. There shouldn't be any lingering
 ## Example Server side Responses:
 ![image](https://github.com/Abhinav-Telukunta/Concurrent-Client-Server-Network-Application/assets/62216101/9fa77d3e-32c4-4577-8e70-f5496f351099)
 
+## Example Client Responses:
+![image](https://github.com/Abhinav-Telukunta/Concurrent-Client-Server-Network-Application/assets/62216101/2f6dabd5-8aa3-404f-b628-ae362dff7faa)
+
+![image](https://github.com/Abhinav-Telukunta/Concurrent-Client-Server-Network-Application/assets/62216101/5c307dd3-8797-4c1a-9e0e-0776aa870c7a)
+
+![image](https://github.com/Abhinav-Telukunta/Concurrent-Client-Server-Network-Application/assets/62216101/fea957b8-3290-4529-b093-a9d00b6b83fa)
+
+![image](https://github.com/Abhinav-Telukunta/Concurrent-Client-Server-Network-Application/assets/62216101/993795b8-ea6b-449c-88a3-86ad684928ad)
+
+
+
+
+
