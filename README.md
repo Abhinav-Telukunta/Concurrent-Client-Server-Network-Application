@@ -10,3 +10,7 @@ inputs, or non-numeric inputs.
 The server program generates appropriate error codes for incorrect commands and communicates these codes to the client. Clients print corresponding error messages when receiving error codes.
 ## Termination:
 Both the server and the clients must terminate. There shouldn't be any lingering threads or processes after termination.
+
+## Example Server side Responses:
+![image](https://github.com/Abhinav-Telukunta/Concurrent-Client-Server-Network-Application/assets/62216101/9fa77d3e-32c4-4577-8e70-f5496f351099)
+
